@@ -1,0 +1,5 @@
+package com.example.module10_live_test_text_styling_formatting_influtter_with_snackbar
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
